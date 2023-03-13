@@ -1,9 +1,0 @@
-git init
-git status
-git add .
-git commit -m "Primera Version"
-git tag -a v1 -m "Tag Primera Version"
-git log (nos explica la situacion)
-git remote add origin https://github.com/litoo18/ProyectoSO.git
-git branch -M main
-git push -u origin main --tag
